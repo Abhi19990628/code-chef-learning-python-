@@ -64,3 +64,4 @@ thislist =["yellow","banana","red"]
 del thislist[0]
 print(thislist)
 
+  
